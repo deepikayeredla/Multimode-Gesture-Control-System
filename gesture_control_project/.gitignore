@@ -1,0 +1,15 @@
+# Virtual environments
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# OpenCV / MediaPipe outputs
+outputs/
+logs/
+
+# OS files
+.DS_Store
+Thumbs.db
